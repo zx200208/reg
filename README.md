@@ -27,3 +27,4 @@ Add CO2 and N2O species to CHBC file ***CO2 species can be added to the CHB(file
 Create a CO2 and N2O source input file ***You can use the cdo command (which you need to install first) in adding CO2 and N2O emission source files,which you can make with reference to the sample data
 Create the yibs input file ***You can refer to the example data yibs_driver.nc to create yibs input files using ncl
 ../bin/regcmMPICLM45 namelist_example.in
+  
